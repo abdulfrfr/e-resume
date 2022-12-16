@@ -14,10 +14,10 @@ function Hero (){
                 </div>
             </div>
             <div className="flex justify-between items-center text-gray-500 text-lg py-2">
-                <a href="">LindIn</a>
-                <a href="">Twitter</a>
-                <a href="">Instagram</a>
-                <a href="">YouTube</a>
+                <a href="https://www.github.com/abdulfrfr">GitHub</a>
+                <a href="https://www.twitter.com/andulfrfr">Twitter</a>
+                <a href="https://www.instagram.com/abdulfrfr">Instagram</a>
+                <a href="https://www.linkedin.com/in/abdulfrfr/">LinkedIn</a>
             </div>
         </section>
     )
