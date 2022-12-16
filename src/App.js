@@ -7,7 +7,7 @@ import Stack from './components/Stack';
 function App() {
   return (
     <section className='bg-black text-white font-[ReadexPro]'>
-      <div className="w-[70vw] md:w-[50vw] mx-auto ">
+      <div className="w-[90vw] md:w-[50vw] mx-auto ">
         <Hero/>
         <Skills/>
         <Stack/>
