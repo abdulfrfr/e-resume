@@ -4,9 +4,9 @@ function Project(){
     return(
         <section className="mt-10">
             <div>
-                <h1 className="text-2xl font-bold mb-5">Projects and Accomplishment</h1>
+                <h1 className="md:text-2xl text-lg  font-bold mb-5">Projects and Accomplishment</h1>
 
-                <div className='flex justify-center items-center '>
+                <div className='flex justify-center md:justify-start md:pl-10 pl-0 items-center '>
 
                     <ul>
                         <li className='flex md:text-md text-sm justify-start items-center py-3 border-b-[1px] border-gray-600'><GiTrophyCup className='mr-3 text-yellow-500'/> Developed an Hospital Management Dashboard</li>

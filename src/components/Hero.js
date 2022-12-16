@@ -8,7 +8,7 @@ function Hero (){
                     <img className='rounded-[50%] object-cover' src={hero} alt=""/>
                 </div>
                 <div>
-                    <h1 className="md:text-3xl md:text-start text-xl text-center text-md font-normal md:font-semibold text-white mb-5">ABDULSALAM ABDULRAZAQ</h1>
+                    <h1 className="mt-3 md:mt-0 md:text-3xl md:text-start text-xl text-center text-md font-semibold text-white mb-5">ABDULSALAM ABDULRAZAQ</h1>
                     <p className="text-gray-500 text-sm mb-5 text-center md:text-start">Software Engineer, Cloud/DevOps Engineer and Open Source Contributor</p>
                     <p className='text-center md:text-start'>&#128073; abdulmails112@gmail.com</p>
                 </div>

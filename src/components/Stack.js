@@ -2,7 +2,7 @@ function Stack(){
     return(
         <section className="mt-10">
             <div>
-                <h1 className="text-2xl font-bold mb-5">Tech Stack</h1>
+                <h1 className="md:text-2xl text-lg  font-bold mb-5">Tech Stack</h1>
 
                 <div className='flex justify-start items-center pb-10 flex-wrap'>
                 <div className="ml-5 mb-2 flex justify-between items-center w-48 text-sm text-gray-500 border-[1px] border-gray-800 rounded-sm py-1 px-2">
